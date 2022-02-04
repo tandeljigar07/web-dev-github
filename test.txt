@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my Another Commit to main!
+=======
+This is again a  Commit to feature!
+>>>>>>> feature
 
 Here we make the second commit!
